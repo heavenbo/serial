@@ -1,0 +1,2 @@
+Serial
+-DCATKIN_DEVEL_PREFIX=/home/boyheaven/Vscode/work/serial/devel -DCMAKE_INSTALL_PREFIX=/home/boyheaven/Vscode/work/serial/install -G Unix Makefiles

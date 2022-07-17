@@ -1,0 +1,5 @@
+# ninja log v5
+1	3824	1657781029441009448	CMakeFiles/open.dir/src/serial.cpp.o	bbc711d70b4300fd
+3827	4052	1657781029669009444	devel/lib/Serial/open	33ca3ab4226f5fa1
+2	3510	1657781045229009154	CMakeFiles/open.dir/src/serial.cpp.o	bbc711d70b4300fd
+3510	3710	1657781045429009150	devel/lib/Serial/open	33ca3ab4226f5fa1
